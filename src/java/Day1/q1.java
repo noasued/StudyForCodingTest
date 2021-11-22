@@ -1,7 +1,7 @@
 package java.Day1;
 
-public class testFile {
+public class q1 {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Hello World!");
     }
 }
